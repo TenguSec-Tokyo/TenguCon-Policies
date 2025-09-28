@@ -1,4 +1,4 @@
-![A playful illustration of a Japanese Tengu mask with circuit board patterns, surrounded by glowing lines of code and cherry blossoms, representing a blend of cybersecurity, Japanese culture, and the spirit of discovery.][image1]
+![A playful illustration of a Japanese Tengu mask with circuit board patterns, surrounded by glowing lines of code and cherry blossoms, representing a blend of cybersecurity, Japanese culture, and the spirit of discovery.](/assets/images/Header-CFP.png)
 
 # Tengucon CFP Review Policy: Unmasking the Magic\!
 
